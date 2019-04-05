@@ -1,5 +1,5 @@
-... finish 9. Setting up Babel
-... continue on the 10th video!!
+... finish 11th
+... continue on the 12. GraphQL Scalar Types
 
 # be-graphql-basics
 Basics for a node server from https://www.udemy.com/graphql-bootcamp/learn/v4/t/lecture/11838204?start=1
@@ -17,4 +17,11 @@ https://babeljs.io/repl#?babili=false&browsers=&build=&builtIns=false&spec=false
 
 #### create a .babelrc file and set the preset env for it
 > touch .babelrc
+
+#### add a graphql module (simple and easy setup process with all advanced features (subsctiptions and more))
+> yarn add graphql-yoga
+
+#### live reload for the node server
+> yarn add nodemon
+
 
